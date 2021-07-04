@@ -18,9 +18,7 @@
 ![VS Code](https://img.shields.io/static/v1?style=for-the-badge&logo=visual-studio-code&message=VS%20Code&label=&color=007ACC&labelColor=000000)
 <br/>
 ![Photoshop](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-photoshop&message=Photoshop&label=&color=31A8FF&labelColor=000000)
-![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
-![InDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-indesign&message=InDesign&label=&color=EE3D8F&labelColor=000000)
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-figma&message=Figma&label=&color=EE3D8F&labelColor=000000)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&logo=figma&message=Figma&label=&color=EE3D8F&labelColor=000000)
 <br/><br/>
 
 ## 📊 My Github Stats
