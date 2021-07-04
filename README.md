@@ -15,7 +15,8 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+## Tech/Software Stack
+
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB4&labelColor=000000)
 <br/>
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
@@ -32,10 +33,19 @@
 ![Illustrator](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-illustrator&message=Illustrator&label=&color=FF9A00&labelColor=000000)
 ![InDesign](https://img.shields.io/static/v1?style=for-the-badge&logo=adobe-indesign&message=InDesign&label=&color=EE3D8F&labelColor=000000)
 <br/><br/>
+
+
+<p align="center">
+<a href="https://github.com/dkmrya02">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/dkmrya02">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=vision-friendly-dark" />
+</a>
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<hr/>
+
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
