@@ -15,8 +15,6 @@
 
 ## 🚀 Languages and Tools:
 
-## Tech/Software Stack
-
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&logo=php&message=PHP&label=&color=777BB4&labelColor=000000)
 <br/>
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&logo=html5&message=HTML5&label=&color=E34F26&labelColor=000000)
@@ -36,11 +34,11 @@
 
 
 <p align="center">
-<a href="https://github.com/dkmrya02">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=dkmrya02&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
+<a href="https://github.com/ZSangLien">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZSangLien&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/dkmrya02">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmrya02&layout=compact&theme=vision-friendly-dark" />
+<a href="https://github.com/ZSangLien">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSangLien&layout=compact&theme=vision-friendly-dark" />
 </a>
 </p>
 
@@ -48,9 +46,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ZSangLien's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 My Github Stats
