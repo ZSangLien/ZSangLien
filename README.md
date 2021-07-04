@@ -25,13 +25,9 @@
 
 ## 📊 My Github Stats
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/ZSangLien">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZSangLien&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
-</a></p>
-<p align="right">
-<a href="https://github.com/ZSangLien">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSangLien&layout=compact&theme=vision-friendly-dark" />
 </a>
 </p>
 
