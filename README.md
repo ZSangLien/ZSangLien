@@ -25,10 +25,11 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ZSangLien">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZSangLien&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
+</a></p>
+<p align="right">
 <a href="https://github.com/ZSangLien">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSangLien&layout=compact&theme=vision-friendly-dark" />
 </a>
