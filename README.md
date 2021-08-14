@@ -28,10 +28,12 @@
 
 <p align="center">
 <a href="https://github.com/ZSangLien">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZSangLien&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zsanglien&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zsanglien&theme=radical" />
 </a>
 </p>
 
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=programmergaurav&theme=rogue" />
 ## Connect with me:
 
 <p align="left">
