@@ -1,14 +1,14 @@
 <p align="center"><img width="300px" src="/assets/programming.png" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilip</h1>
-<h3 align="center">I'm a passionate Python Coder from India.</h3>
+<h3 align="center">I'm a aspiring Web Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **JavaScript.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for opportunity in **Web Development** to enhance my skills.
 
 - 📫 How to reach me **zsanglien007@gmail.com**
 
