@@ -32,8 +32,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zsanglien&theme=radical" />
 </a>
 </p>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zsanglien&column=6&theme=rogue"/>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=zsanglien&theme=rogue" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=zsanglien&column=6&theme=radical"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=zsanglien&theme=radical" />
 
 ## Connect with me:
 
